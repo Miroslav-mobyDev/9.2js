@@ -47,7 +47,7 @@ console.log(b)
 }
 //Задание 7
 let numbers = [1,2,3,4,5]
-for(let c=0 ;c <+ numbers.length; c++ ){
+for(let c=0 ;c <= numbers.length; c++ ){
 console.log(c);
 }
 //Задание 8
